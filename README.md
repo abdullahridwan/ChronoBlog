@@ -1,1 +1,1 @@
-Gastby Site for the startup Chrono Grp
+Blog Site for the startup Chrono Grp
